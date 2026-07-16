@@ -1,6 +1,6 @@
 # YarnVault
 
-A modern yarn inventory application.
+A modern yarn inventory application..
 
 ## Getting Started
 
